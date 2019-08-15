@@ -68,7 +68,7 @@ This website is focuses on fans, upcoming artists and companies.
 ##### Songs
 - Go to songs page click through each video and audio clip to make sure each song plays aloud.
 ##### Photos
-Go to photo page check if all photos are well displayed.
+- Go to photo page check if all photos are well displayed.
 ##### Store
 - Go to store page check if the the prices of CDs and MP3 are well displayed.
 ##### Bookings
@@ -83,7 +83,9 @@ if all the social media icons are working.
 ## Bugs/problems Encountered
 - My navigation was not working perfectly my mentor adviced on how to style it and it worked.
 ##### Deploying my project
-- To deploy my project i pushed my AWS Cloud9 workspace to my Github respository.
+- I added all files in the command line using git add.
+- I commited them 
+- I pushed them to [GitHub respository](https://github.com/macharia63/my_first_website/tree/master/assets/css)
 ## Credits
 ###### logo
 - The logo was obtained from David and the Giants website.
@@ -94,7 +96,7 @@ if all the social media icons are working.
 ###### Audios
 - They were obtained from David and the Giants website.
 ##### Acknowledgements
-- To my mentor Antonija Simic who was available everytime i booked session and for helping me with navigation and pushing this project to Github.
+- To my mentor Antonija Simic who was available everytime i booked session and for helping me with navigation and pushing this project to Github.[Here are her GitHub](https://github.com/tonkec)
 - Daragh Ö Tuama who adviced me to try two screens and it worked.
 
 
